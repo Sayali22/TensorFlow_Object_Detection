@@ -9,3 +9,5 @@ It is implemented by machine learning technology by training and testing the mod
 Key task of project is 'object detection' which is specifically aims to detect a species of particular animal by fine tuning the hyperparameters and creating bounding boxes spanning the interest region in image. 
 
 This will undoubtably help for resource management for wildlife conservation and will be also helpful for future research, studies by conservationists.
+
+Reference : https://github.com/tensorflow/models/tree/master/research/object_detection 
