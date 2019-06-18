@@ -1,7 +1,8 @@
 # TensorFlow_Object_Detection (On going)
 
-## Abstract: Machine Learning for Wildlife Conservation
+## Machine Learning for Wildlife Conservation
 
+### Abstract:
 This project will investigate and discuss the various implementation of machine learning techniques in object detection for identifying wildlife from captured images. The aim of this project is to detect animal species through Raspberry Pi camera. 
 
 It is implemented by machine learning technology by training and testing the model from very huge dataset of camera trapped images and deploying this model on Raspberry Pi.
