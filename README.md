@@ -9,6 +9,6 @@ Key task of project is 'object detection' which is specifically aims to detect a
 
 This will undoubtably help for resource management for wildlife conservation and will be also helpful for future research, studies by conservationists.
 
-Due to Non-Discloure agreement I am not allowed to upload the Source code or Thesis Report without removing Images.
+Dueto Non-Disclosure agreement I am not allowed to upload the Source code or Thesis Report without removing Images.
 
 Reference : https://github.com/tensorflow/models/tree/master/research/object_detection 
